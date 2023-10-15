@@ -16,7 +16,6 @@ int maximumSubarraySum(vector < int > arr) {
       }
     }
   }
-
   return maxSum;
 }
 int main() {
